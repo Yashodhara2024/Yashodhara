@@ -87,7 +87,7 @@ Currently building out RAG-based projects — chunking, hybrid search, and re-ra
 
 ---
 
-## 📊 GitHub Stats
+##  Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0A1128&title_color=FFB800&icon_color=FFB800&text_color=FFFFFF" height="165"/>
@@ -100,7 +100,7 @@ Currently building out RAG-based projects — chunking, hybrid search, and re-ra
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
