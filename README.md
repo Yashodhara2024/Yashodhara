@@ -18,7 +18,7 @@
 - 🚗 Recently shipped **TrafikDigest** — a civic data dashboard processing ~298K traffic/parking records across 54 Bengaluru stations for Gridlock Hackathon 2.0
 - 🌱 Currently deepening my work in **Retrieval-Augmented Generation (RAG)** pipelines and system design
 - 🏛️ Active in campus leadership — **BitByBit Club**, **Under 25 Summit**, and **E-Cell**
-- 🎯 Currently targeting **Summer 2027** SWE / research internships
+  
 
 ---
 
