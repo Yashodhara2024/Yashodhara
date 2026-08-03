@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/status-open_to_Summer_2027_internships-FFB800?style=for-the-badge&labelColor=0A1128" />
-  <img src="https://img.shields.io/badge/CGPA-8.86-0A1128?style=for-the-badge&labelColor=FFB800&color=0A1128" />
+
 </div>
 
 <br/>
