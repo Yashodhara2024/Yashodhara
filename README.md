@@ -65,8 +65,7 @@ Machine learning system for **crop recommendation**, matching soil and climate d
 </td>
 <td width="50%" valign="top">
 
-### 📚 More in progress
-Currently building out RAG-based projects — chunking, hybrid search, and re-ranking pipelines — as part of an ongoing deep dive into retrieval systems.
+
 
 `#RAG` `#LLM` `#Agentic AI`
 
