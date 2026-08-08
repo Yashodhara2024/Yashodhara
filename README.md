@@ -15,7 +15,6 @@
 
 - 🎓 Third-year Computer Science undergrad at **VIT Bhopal**, graduating May 2028
 - 🌱 Currently deepening my work in **Retrieval-Augmented Generation (RAG)** pipelines and system design
-- 🏛️ Active in campus leadership — **BitByBit Club**, **Under 25 Summit**, and **E-Cell**
   
 
 ---
