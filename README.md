@@ -42,8 +42,6 @@ AI-powered video interpolation **Telegram bot** built on Google's FILM model —
 
 - Frame interpolation pipeline for smooth slow-motion video
 - Production Telegram bot integration
-- Real-world deployment, not just a demo
-
 `#ComputerVision` `#AI` `#DeployedProduct`
 
 </td>
