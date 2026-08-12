@@ -34,8 +34,6 @@ Full-stack civic data dashboard built for **Gridlock Hackathon 2.0**. Processes 
 ### 🎞️ MASIF
 AI-powered video interpolation **Telegram bot** built on Google's FILM model — deployed and used by real users.
 
-- Frame interpolation pipeline for smooth slow-motion video
-- Production Telegram bot integration
 `#ComputerVision` `#AI` `#DeployedProduct`
 
 </td>
