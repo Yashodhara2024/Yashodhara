@@ -18,13 +18,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 TrafikDigest
-Full-stack civic data dashboard built for **Gridlock Hackathon 2.0**. Processes ~298,000 parking & traffic violation records across 54 Bengaluru stations.
-
-- Custom congestion impact scoring algorithm
-- Interactive heatmap layers + hotspot leaderboard
-- Per-hotspot detail drawers & citywide analytics charts
-- Dark navy & amber UI, delivered as a static site
 
 `#DataViz` `#CivicTech` `#FullStack`
 
