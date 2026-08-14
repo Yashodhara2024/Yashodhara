@@ -10,7 +10,7 @@
 
 <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-ADD8E6?style=for-the-badge&logo=github&logoColor=white&labelColor=87CEEB"/></a>
 <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-YOUR__LEETCODE-ADD8E6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=87CEEB"/></a>
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES"><img src="https://img.shields.io/badge/Codeforces-YOUR__CODEFORCES-ADD8E6?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=87CEEB"/></a>
+<a href="https://codeforces.com/profile/Yashodhara"><img src="https://img.shields.io/badge/Codeforces-YOUR__CODEFORCES-ADD8E6?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=87CEEB"/></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ADD8E6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=87CEEB"/></a>
 
 </div>
