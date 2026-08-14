@@ -9,8 +9,8 @@
 <br/><br/>
 
 <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-ADD8E6?style=for-the-badge&logo=github&logoColor=white&labelColor=87CEEB"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-YOUR__LEETCODE-ADD8E6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=87CEEB"/></a>
-<a href="https://codeforces.com/profile/Yashodhara"><img src="https://img.shields.io/badge/Codeforces-YOUR__CODEFORCES-ADD8E6?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=87CEEB"/></a>
+<a href="https://leetcode.com/u/Yashodharaaa/"><img src="https://img.shields.io/badge/LeetCode-Yashodharaaa-ADD8E6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=87CEEB"/></a>
+<a href="https://codeforces.com/profile/Yashodhara"><img src="https://img.shields.io/badge/Codeforces-Yashodhara-ADD8E6?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=87CEEB"/></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ADD8E6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=87CEEB"/></a>
 
 </div>
@@ -55,12 +55,12 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=light&font=Fira%20Code&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/Yashodharaaa?theme=light&font=Fira%20Code&ext=heatmap" />
 
 </div>
 
-> Replace `YOUR_LEETCODE` above with your LeetCode username. If the card doesn't render (LeetCode API changes often), swap in an alternative such as:
-> `![LeetCode Stats](https://leetcode-stats-card.vercel.app/?username=YOUR_LEETCODE&theme=light&card_bg=%23FFFFFF&text_color=%23333333&title_color=%231E90FF)`
+> If the card above doesn't render (LeetCode's API changes often), swap in this alternative:
+> `![LeetCode Stats](https://leetcode-stats-card.vercel.app/?username=Yashodharaaa&theme=light&card_bg=%23FFFFFF&text_color=%23333333&title_color=%231E90FF)`
 
 <br/>
 
@@ -68,12 +68,12 @@
 
 <div align="center">
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES&theme=default" />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yashodhara&theme=default" />
 
 </div>
 
 > Codeforces widgets are community-maintained and occasionally go down. Alternative badge (always reliable, links to live rating):
-> `[![Codeforces](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces%20Rating&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DYOUR_CODEFORCES&color=1E90FF&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CODEFORCES)`
+> `[![Codeforces](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces%20Rating&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DYashodhara&color=1E90FF&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Yashodhara)`
 
 <br/>
 
