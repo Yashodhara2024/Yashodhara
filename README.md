@@ -19,12 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently working on **[Your Project]**
-- 🌱 I'm currently learning **[Tech / Language]**
-- 👯 I'm looking to collaborate on **[Type of project]**
-- 💬 Ask me about **[Your expertise]**
-- 📫 Reach me at **your.email@example.com**
-- ⚡ Fun fact: **[Something fun about you]**
+
 
 <br/>
 
