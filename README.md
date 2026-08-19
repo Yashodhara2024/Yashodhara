@@ -72,14 +72,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,react,nodejs,git,github,vscode,linux,docker&theme=light" />
-
-</div>
-
+#
 <br/>
 
 ## 📈 Contribution Graph
