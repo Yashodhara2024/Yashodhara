@@ -67,40 +67,4 @@
 
 </div>
 
-> Codeforces widgets are community-maintained and occasionally go down. Alternative badge (always reliable, links to live rating):
-> `[![Codeforces](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces%20Rating&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DYashodhara&color=1E90FF&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Yashodhara)`
-
-<br/>
-
-#
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&bg_color=FFFFFF&color=1E90FF&line=5DADE2&point=1E90FF&area=true&area_color=ADD8E6&hide_border=true" />
-</div>
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-ADD8E6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E90FF"/></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-ADD8E6?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1E90FF"/></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-ADD8E6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1E90FF"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=87CEEB&style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-</div>
+>
